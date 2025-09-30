@@ -3,3 +3,11 @@ write poldens
 voronoi
 end
 
+#################################################################################
+# In the first line specify the field step used for the calculations
+# in second line, specify if you want grid files be printed 
+# third line the kind of partition: voronoi, hirshfeld (abbreviation hirsh) 
+# or simply Z/r (works well and costs nothing...)
+#
+#
+
