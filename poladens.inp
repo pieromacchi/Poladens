@@ -1,0 +1,5 @@
+field 0.0050
+write poldens
+voronoi
+end
+
